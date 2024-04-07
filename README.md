@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: VEERARAGAVAN V</h3>
 <h3>Register Number/Staff Id: 212223230237</h3>
 <H3>Aim:</H3>
